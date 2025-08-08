@@ -37,7 +37,7 @@ with
 $$
 \rho(a,0)=\rho_0(a), 
 \qquad
-\rho(0,t)=\int_0^\infty \gamma\,\rho(s,t)\,ds .
+\rho(0,t)=\int_0^\infty \gamma\rho(s,t)\,ds .
 $$
 
 We typically assume γ is constant and work at steady state, giving the exponential density  
